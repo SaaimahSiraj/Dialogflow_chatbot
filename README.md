@@ -85,4 +85,3 @@ Some basic intents to try inside Dialogflow:
 
 ---
 
-Would you like me to also include a **screenshot preview** section in the README (with your chatbot widget UI), or just keep it text-only?
